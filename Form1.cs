@@ -5,6 +5,12 @@ namespace MotivationTracker
         public Form1()
         {
             InitializeComponent();
+            Application.EnableVisualStyles();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MotivationTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c0ca0417191d71bed3f16fbf649f58b020e3b03")]
 [assembly: System.Reflection.AssemblyProductAttribute("MotivationTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MotivationTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

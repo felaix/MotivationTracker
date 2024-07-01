@@ -1,0 +1,17 @@
+C:\Users\Felix\Documents\Projects\MotivationTracker\MotivationTracker\bin\Debug\net8.0-windows\MotivationTracker.exe
+C:\Users\Felix\Documents\Projects\MotivationTracker\MotivationTracker\bin\Debug\net8.0-windows\MotivationTracker.deps.json
+C:\Users\Felix\Documents\Projects\MotivationTracker\MotivationTracker\bin\Debug\net8.0-windows\MotivationTracker.runtimeconfig.json
+C:\Users\Felix\Documents\Projects\MotivationTracker\MotivationTracker\bin\Debug\net8.0-windows\MotivationTracker.dll
+C:\Users\Felix\Documents\Projects\MotivationTracker\MotivationTracker\bin\Debug\net8.0-windows\MotivationTracker.pdb
+C:\Users\Felix\Documents\Projects\MotivationTracker\MotivationTracker\obj\Debug\net8.0-windows\MotivationTracker.Form1.resources
+C:\Users\Felix\Documents\Projects\MotivationTracker\MotivationTracker\obj\Debug\net8.0-windows\MotivationTracker.csproj.GenerateResource.cache
+C:\Users\Felix\Documents\Projects\MotivationTracker\MotivationTracker\obj\Debug\net8.0-windows\MotivationTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix\Documents\Projects\MotivationTracker\MotivationTracker\obj\Debug\net8.0-windows\MotivationTracker.AssemblyInfoInputs.cache
+C:\Users\Felix\Documents\Projects\MotivationTracker\MotivationTracker\obj\Debug\net8.0-windows\MotivationTracker.AssemblyInfo.cs
+C:\Users\Felix\Documents\Projects\MotivationTracker\MotivationTracker\obj\Debug\net8.0-windows\MotivationTracker.csproj.CoreCompileInputs.cache
+C:\Users\Felix\Documents\Projects\MotivationTracker\MotivationTracker\obj\Debug\net8.0-windows\MotivationTracker.sourcelink.json
+C:\Users\Felix\Documents\Projects\MotivationTracker\MotivationTracker\obj\Debug\net8.0-windows\MotivationTracker.dll
+C:\Users\Felix\Documents\Projects\MotivationTracker\MotivationTracker\obj\Debug\net8.0-windows\refint\MotivationTracker.dll
+C:\Users\Felix\Documents\Projects\MotivationTracker\MotivationTracker\obj\Debug\net8.0-windows\MotivationTracker.pdb
+C:\Users\Felix\Documents\Projects\MotivationTracker\MotivationTracker\obj\Debug\net8.0-windows\MotivationTracker.genruntimeconfig.cache
+C:\Users\Felix\Documents\Projects\MotivationTracker\MotivationTracker\obj\Debug\net8.0-windows\ref\MotivationTracker.dll
